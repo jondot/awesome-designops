@@ -7,7 +7,7 @@
 <br/>
 <br/>
 Awesome DesignOps is an awesome style list that curates the best design ops news,
-tools, tutorials, articles and more. [PRs are welcome](https://github.com/jondot/awesome-designops).
+tools, tutorials, articles and more. <a href="https://github.com/jondot/awesome-designops">PRs are welcome</a>.
 
 
 <br/>
