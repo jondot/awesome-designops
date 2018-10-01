@@ -1,0 +1,232 @@
+- name: Atlaskit
+  hot: true
+  url: http://atlaskit.atlassian.com
+  company: Atlassian
+  license:
+    name: ATL
+    url: https://bitbucket.org/atlassian/atlaskit-mk-2/src/ce7c58515480ddae4e4cd8640db2da73d07ef5db/LICENSE?at=master&fileviewer=file-view-default
+  react:
+    url: https://atlaskit.atlassian.com/packages 
+  sketch:
+    url: https://atlassian.design/guidelines/product/resources/web-product-gui-pack
+  guideline:
+    url: https://atlassian.design/guidelines/brand
+  blog:
+    url: https://atlassian.design/
+
+- name: Grommet V2
+  hot: true
+  url: https://v2.grommet.io/
+  company: HP
+  license:
+    name: Apache 2.0
+  react:
+    url: https://v2.grommet.io/components
+  sketch:
+    url: https://github.com/grommet/grommet-design
+  blog:
+    url: https://blog.grommet.io/
+  guidline:
+    url: https://grommet.io/docs/about
+
+- name: Primer
+  url: https://primer.style/
+  hot: true
+  company: Github
+  license:
+    name: MIT
+  react:
+    url: https://primer.style/components
+  sketch:
+    url: https://styleguide.github.com/primer/tools/sketch-templates/
+  guideline:
+    url: https://styleguide.github.com/primer/principles/
+  blog:
+    url: https://styleguide.github.com/primer/whats_new/
+
+- name: SEEK UI
+  url: http://seek-oss.github.io/seek-style-guide/
+  hot: true
+  company: SEEK
+  license:
+    name: MIT
+  react:
+    url: https://github.com/seek-oss/seek-style-guide
+  guideline:
+    url: http://seek-oss.github.io/seek-style-guide/
+  sketch:
+    url: https://github.com/seek-oss/style-guide-resources-for-sketch
+- name: Polaris
+  url: https://polaris.shopify.com/
+  hot: true
+  company: Shopify
+  license: 
+    name: MIT
+  react:
+    url: https://github.com/Shopify/polaris
+  guideline:
+    url: https://polaris.shopify.com/guides/principles#navigation
+  sketch:
+    url: https://github.com/Shopify/polaris/releases
+
+- name: Lightning
+  company: Salesforce
+  hot: true
+  url: https://www.lightningdesignsystem.com/
+  license: 
+    name: ":warning: Salesforce"
+  guideline:
+    url: https://www.lightningdesignsystem.com/guidelines/overview/
+  react:
+    url: https://github.com/salesforce-ux/design-system
+  sketch:
+    url: https://www.lightningdesignsystem.com/downloads/
+
+- name: Priceline Design System
+  company: Priceline
+  license:
+    name: MIT
+  url: https://pricelinelabs.github.io/
+  hot: true
+  sketch:
+    url: https://github.com/pricelinelabs/design-system-sketch/releases/latest
+  react:
+    url: https://github.com/pricelinelabs/design-system/
+
+- name: Pluralsight Design System
+  company: Pluralsight
+  url: https://design-system.pluralsight.com/ 
+  hot: true
+  license:
+    name: Apache 2.0
+  react:
+    url: https://github.com/pluralsight/design-system
+  sketch:
+    url: https://design-system.pluralsight.com/design-assets/
+  guideline:
+    url: https://design-system.pluralsight.com/patterns/voice-tone/
+
+- name: Gestalt
+  company: Pinterest
+  url: https://pinterest.github.io/gestalt
+  license: 
+    name: Apache 2.0
+  hot: true
+  react:
+    url: https://github.com/pinterest/gestalt
+
+- name: Ring UI
+  company: Jetbrains
+  hot: true
+  license: 
+    name: Apache 2.0
+  url: https://jetbrains.github.io/ring-ui/master/index.html
+  react:
+    url: https://github.com/JetBrains/ring-ui
+
+- name: Carbon
+  company: IBM
+  hot: true
+  license: 
+    name: Apache 2.0
+  url: http://www.carbondesignsystem.com/
+  sketch:
+    url: https://github.com/ibm/carbon-design-kit
+  react:
+    url: https://github.com/ibm/carbon-components-react
+  guideline:
+    url: http://www.carbondesignsystem.com/guidelines/content/general
+
+- name: Backpack
+  url: https://backpack.github.io/
+  company: Skyscanner
+  license:
+    name: Apache 2.0
+  react:
+    url: https://github.com/Skyscanner/backpack
+  sketch:
+    url: https://backpack.github.io/using/getting-started#sketch-resources
+  guideline:
+    url: https://backpack.github.io/style-guide/copywriting
+
+- name: Blueprint
+  url: https://blueprintjs.com  
+  company: Palantir
+  license:
+    name: Apache 2.0
+  react:
+    url: https://blueprintjs.com
+  sketch:
+    url: https://blueprintjs.com/docs/#resources
+
+- name: Mineral UI
+  url: http://mineral-ui.com/
+  company: CA Technologies
+  license:
+    name: Apache 2.0
+  react:
+    url: http://mineral-ui.com/component-status
+  sketch:
+    url: https://github.com/mineral-ui/design-assets
+
+- name: Evergreen
+  url: https://evergreen.surge.sh
+  company: Segment IO
+  license:
+    name: MIT
+  react:
+    url: https://evergreen.surge.sh/components/
+
+- name: Canvas
+  url: https://canvas.hubspot.com/
+  company: Hubspot
+  license: 
+    name: ":warning: Hubspot"
+  guideline:
+    url: https://canvas.hubspot.com/styles/design-principles
+  blog:
+    url: https://medium.com/hubspot-product/people-over-pixels-b962c359a14d
+  react:
+    url: https://github.com/HubSpot/canvas
+
+- name: Zendesk Garden
+  url: https://garden.zendesk.com/
+  company: Zendesk
+  license: 
+    name: Apache 2.0
+  react:
+    url: https://github.com/zendeskgarden/react-components
+
+- name: Pivotal UI
+  company: Pivotal
+  url: https://styleguide.pivotal.io/
+  license: 
+    name: MIT
+  react:
+    url: https://github.com/pivotal-cf/pivotal-ui/tree/master/src/react
+
+- name: Fabric
+  company: Microsoft
+  license: 
+    name: ":warning: Microsoft"
+  url: https://developer.microsoft.com/en-us/fabric
+  react:
+    url: https://github.com/OfficeDev/office-ui-fabric-react
+  sketch:
+    url: https://developer.microsoft.com/en-us/fabric#/resources
+
+- name: Hackclub Design System
+  company: Hackclub
+  url: https://design.hackclub.com/
+  license:
+    name: MIT
+  react:
+    url: https://github.com/hackclub/design-system
+  
+- name: Joyent UI Toolkit
+  company: Joyent
+  url: https://joyent-ui-toolkit.now.sh/
+  license:
+    name: MPL 2.0
+  react:
+    url: https://github.com/yldio/joyent-portal/tree/master/packages/ui-toolkit

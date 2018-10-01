@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="416px" height="168px" viewBox="0 0 416 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>designops</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EE209F" offset="0%"></stop>
+            <stop stop-color="#FF5353" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="designops" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="24" y="25" width="120" height="120"></rect>
+        <text id="DesignOps" font-family="AvenirNext-Regular, Avenir Next" font-size="48" font-weight="normal" letter-spacing="-1.60000002" fill="#FB4865">
+            <tspan x="157" y="136">DesignOp</tspan>
+            <tspan x="370.808" y="136">s</tspan>
+        </text>
+        <text id="Awesome" font-family="AvenirNext-UltraLight, Avenir Next" font-size="36" font-weight="200" letter-spacing="-2.0999999" fill="#FB4865">
+            <tspan x="161" y="91">Awesome</tspan>
+        </text>
+    </g>
+</svg>
