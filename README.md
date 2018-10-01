@@ -137,6 +137,7 @@ Criteria for design systems:
 * [Automate Sketch](https://github.com/Ashung/Automate-Sketch) - a Sketch multitool.
 * [Better Shadows](https://github.com/JJYing/Sketch-Better-Shadow) - generate shadows with non-linear decay.
 * [Rough Sketch](https://github.com/mathieudutour/rough-sketch) - generate hand-drawn variant of your composition. Works mostly.
+* [Chromatic Sketch](https://github.com/petterheterjag/chromatic-sketch) - generate perceptually uniform gradients and color scales.
 
 ### Content
 
@@ -155,6 +156,7 @@ Criteria for design systems:
 * [react-sketchapp styleguide demo](https://github.com/airbnb/react-sketchapp/tree/master/examples/styleguide) - you can use this to bootstrap your design system
 * [html-sketchapp](https://github.com/brainly/html-sketchapp) - turn HTML pages into Sketch compositions
 * [html-sketchapp-cli](https://github.com/seek-oss/html-sketchapp-cli) - a CLI for html-sketchapp to create Sketch libraries.
+* [Salsa](https://github.com/Yelp/salsa) - export iOS components to Sketch (from Yelp).
 
 
 ### Development
