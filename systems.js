@@ -15,7 +15,7 @@ const s = (strings, ...vals) => {
     return strings.reduce((acc, string, i) => `${acc}${i == 0 ? dedentStart(string) : (i == strings.length ? dedentEnd(string) : string)}${rendered[i] || ''}`, '')
 }
 const Row = (row) => s`
-* ${row.hot && ':fire: '}[${row.name}](${row.url}) - ${row.company} ([${row.license && row.license.name}](${row.license && row.license.url || licensemap[row.license && row.license.name] || '#'})). ${row.react && `<img src="react.svg" width="24" style="margin-bottom:-2px"/>[React](${row.react.url})`} ${row.sketch && ` | <img src="sketch.png" width="16" style="margin-bottom:-2px"/> [Sketch](${row.sketch.url})`} ${row.guideline && ` | :book: [Guideline](${row.guideline.url})`} ${row.blog && ` | [Blog](${row.blog.url})`}
+* ${row.hot && ':fire: '}[${row.name}](${row.url}) - ${row.company} ([${row.license && row.license.name}](${row.license && row.license.url || licensemap[row.license && row.license.name] || '#'})). ${row.react && `<img src="react.svg" width="24" style="margin-bottom:-2px"/>[React${row.react.note || ''}](${row.react.url})`} ${row.sketch && ` | <img src="sketch.png" width="16" style="margin-bottom:-2px"/> [Sketch${row.sketch.note || ''}](${row.sketch.url})`} ${row.guideline && ` | :book: [Guideline](${row.guideline.url})`} ${row.blog && ` | [Blog](${row.blog.url})`}
 `
 
 const Systems = ({ systems }) => s`
