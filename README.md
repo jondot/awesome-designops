@@ -90,6 +90,7 @@ Criteria for design systems:
 * [Airbnb](https://airbnb.design)
 * [Facebook](https://facebook.design)
 * [Lyft](https://design.lyft.com/)
+* [Spotify](https://spotify.design/)
 
 ## Reading
 
