@@ -184,6 +184,7 @@ Criteria for design systems:
 
 * [Themer](https://themer.mjswensen.com/) - generate color themes for various applications. [Plugin for Sketch Palletes](https://github.com/mjswensen/themer/tree/master/packages/themer-sketch-palettes).
 * [ColorBox](https://www.colorbox.io/) - building color systems for accessible UIs that scale.
+* [Calculation Hub Luminance Calculator](https://calculation-hub.com/colors/luminance-brightness) - compare sRGB relative luminance, weighted luma, and HSP brightness, with contrast calculations and formula explanations.
 
 ## Accessibility
 
